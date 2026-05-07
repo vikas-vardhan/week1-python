@@ -4,3 +4,5 @@ def greet(name):
 
 print(greet("Vikas"))
 print(greet("Future Me"))
+print(greet("Mr. Vardhan"))
+
